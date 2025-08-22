@@ -5502,3 +5502,4 @@
 [2025-08-22 20:41:53] docs: update API documentation in README
 [2025-08-22 15:17:07] refactor: simplify conditional logic in string parser
 [2025-08-22 22:35:58] feat: add binary search utility for sorted arrays
+[2025-08-22 15:06:43] docs: improve usage examples for quick start guide
