@@ -5501,3 +5501,4 @@
 [2025-08-22 12:30:53] perf: reduce execution time of array chunking
 [2025-08-22 20:41:53] docs: update API documentation in README
 [2025-08-22 15:17:07] refactor: simplify conditional logic in string parser
+[2025-08-22 22:35:58] feat: add binary search utility for sorted arrays
