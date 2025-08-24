@@ -5517,3 +5517,4 @@
 [2025-08-24 10:37:13] refactor: extract helper methods in algorithms module
 [2025-08-24 17:07:05] test: expand test suite for edge case handling
 [2025-08-24 15:51:33] refactor: extract helper methods in algorithms module
+[2025-08-24 17:30:04] feat: add binary search utility for sorted arrays
