@@ -5542,3 +5542,4 @@
 [2025-08-25 21:16:03] fix: correct boundary conditions in segment tree
 [2025-08-25 12:40:26] docs: improve usage examples for quick start guide
 [2025-08-25 11:57:47] refactor: modularize data structures module
+[2025-08-25 11:14:26] feat: add matrix transformation functions
