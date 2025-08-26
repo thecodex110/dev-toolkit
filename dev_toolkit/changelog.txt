@@ -5557,3 +5557,4 @@
 [2025-08-26 09:47:35] test: add unit test coverage for string_utils
 [2025-08-26 17:25:09] fix: resolve potential key error in cache lookup
 [2025-08-26 13:52:05] chore: update linting rules and code formatting
+[2025-08-26 17:29:38] fix: correct boundary conditions in segment tree
