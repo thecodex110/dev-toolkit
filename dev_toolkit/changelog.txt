@@ -5583,3 +5583,4 @@
 [2025-08-26 18:24:24] fix: address minor type checker warnings
 [2025-08-27 11:32:56] docs: improve usage examples for quick start guide
 [2025-08-27 15:01:41] docs: improve usage examples for quick start guide
+[2025-08-27 19:47:52] feat: add matrix transformation functions
