@@ -5595,3 +5595,4 @@
 [2025-08-27 13:33:08] docs: add docstrings and typing annotations
 [2025-08-27 11:08:39] refactor: extract helper methods in algorithms module
 [2025-08-27 16:52:08] feat: add matrix transformation functions
+[2025-08-27 08:50:31] feat: add matrix transformation functions
