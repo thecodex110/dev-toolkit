@@ -5596,3 +5596,4 @@
 [2025-08-27 11:08:39] refactor: extract helper methods in algorithms module
 [2025-08-27 16:52:08] feat: add matrix transformation functions
 [2025-08-27 08:50:31] feat: add matrix transformation functions
+[2025-08-27 22:33:16] docs: update API documentation in README
