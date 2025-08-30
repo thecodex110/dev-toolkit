@@ -5628,3 +5628,4 @@
 [2025-08-29 20:11:23] perf: reduce execution time of array chunking
 [2025-08-29 13:58:32] fix: handle edge cases in string truncation
 [2025-08-30 18:58:16] chore: update dependencies and version bump
+[2025-08-30 20:49:33] feat: add matrix transformation functions
