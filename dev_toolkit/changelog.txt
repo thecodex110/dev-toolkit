@@ -5649,3 +5649,4 @@
 [2025-08-31 14:01:40] chore: clean up internal module imports
 [2025-08-31 20:21:44] fix: address minor type checker warnings
 [2025-08-31 13:47:21] test: add benchmark tests for algorithmic helpers
+[2025-08-31 15:08:05] fix: correct boundary conditions in segment tree
