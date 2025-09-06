@@ -5718,3 +5718,4 @@
 [2025-09-06 22:15:44] docs: update API documentation in README
 [2025-09-06 15:16:04] refactor: extract helper methods in algorithms module
 [2025-09-06 16:02:36] docs: add docstrings and typing annotations
+[2025-09-06 14:59:28] fix: handle edge cases in string truncation
