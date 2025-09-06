@@ -5716,3 +5716,4 @@
 [2025-09-06 11:44:34] docs: update API documentation in README
 [2025-09-06 18:23:35] test: add benchmark tests for algorithmic helpers
 [2025-09-06 22:15:44] docs: update API documentation in README
+[2025-09-06 15:16:04] refactor: extract helper methods in algorithms module
