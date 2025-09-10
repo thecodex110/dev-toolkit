@@ -5772,3 +5772,4 @@
 [2025-09-09 12:47:15] feat: implement Trie data structure for prefix searching
 [2025-09-09 12:31:41] perf: reduce execution time of array chunking
 [2025-09-10 20:50:24] fix: address minor type checker warnings
+[2025-09-10 09:40:15] docs: update API documentation in README
