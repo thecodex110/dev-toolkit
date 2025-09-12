@@ -5833,3 +5833,4 @@
 [2025-09-12 12:12:32] docs: update API documentation in README
 [2025-09-12 21:43:23] fix: handle edge cases in string truncation
 [2025-09-12 14:56:32] feat: add matrix transformation functions
+[2025-09-12 18:44:35] feat: add binary search utility for sorted arrays
