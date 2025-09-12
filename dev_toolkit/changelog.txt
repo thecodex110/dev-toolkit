@@ -5813,3 +5813,4 @@
 [2025-09-12 18:15:57] docs: improve usage examples for quick start guide
 [2025-09-12 22:33:25] docs: update API documentation in README
 [2025-09-12 18:50:09] feat: add slugify utility for string formatting
+[2025-09-12 13:16:52] refactor: extract helper methods in algorithms module
