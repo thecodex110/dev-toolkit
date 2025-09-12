@@ -5808,3 +5808,4 @@
 [2025-09-11 08:58:50] test: assert immutability of returned data chunks
 [2025-09-11 15:01:39] fix: address minor type checker warnings
 [2025-09-12 12:42:58] chore: update dependencies and version bump
+[2025-09-12 15:21:11] chore: update linting rules and code formatting
