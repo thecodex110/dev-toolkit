@@ -5825,3 +5825,4 @@
 [2025-09-12 12:43:28] perf: reduce execution time of array chunking
 [2025-09-12 12:42:18] fix: resolve potential key error in cache lookup
 [2025-09-12 15:28:47] refactor: simplify conditional logic in string parser
+[2025-09-12 15:41:44] docs: update API documentation in README
