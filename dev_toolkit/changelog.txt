@@ -5940,3 +5940,4 @@
 [2025-09-24 20:17:33] docs: add docstrings and typing annotations
 [2025-09-24 20:45:45] chore: clean up internal module imports
 [2025-09-24 18:42:51] feat: add binary search utility for sorted arrays
+[2025-09-25 15:23:26] docs: update API documentation in README
