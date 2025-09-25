@@ -5950,3 +5950,4 @@
 [2025-09-25 19:05:38] docs: update API documentation in README
 [2025-09-25 21:33:17] fix: handle edge cases in string truncation
 [2025-09-25 13:05:15] chore: update dependencies and version bump
+[2025-09-25 19:24:44] refactor: simplify conditional logic in string parser
