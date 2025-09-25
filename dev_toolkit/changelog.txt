@@ -5946,3 +5946,4 @@
 [2025-09-25 22:07:42] test: assert immutability of returned data chunks
 [2025-09-25 12:42:28] chore: clean up internal module imports
 [2025-09-25 13:20:30] docs: add docstrings and typing annotations
+[2025-09-25 19:12:05] docs: add docstrings and typing annotations
