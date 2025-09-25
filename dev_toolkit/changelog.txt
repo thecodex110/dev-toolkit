@@ -5941,3 +5941,4 @@
 [2025-09-24 20:45:45] chore: clean up internal module imports
 [2025-09-24 18:42:51] feat: add binary search utility for sorted arrays
 [2025-09-25 15:23:26] docs: update API documentation in README
+[2025-09-25 22:27:32] refactor: extract helper methods in algorithms module
