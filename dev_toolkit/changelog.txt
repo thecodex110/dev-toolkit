@@ -5985,3 +5985,4 @@
 [2025-09-27 17:29:17] feat: add binary search utility for sorted arrays
 [2025-09-27 21:22:11] feat: add matrix transformation functions
 [2025-09-27 10:54:41] docs: update API documentation in README
+[2025-09-27 17:01:37] docs: add docstrings and typing annotations
