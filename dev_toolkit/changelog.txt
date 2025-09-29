@@ -6032,3 +6032,4 @@
 [2025-09-29 12:14:27] chore: update dependencies and version bump
 [2025-09-29 13:20:14] feat: add matrix transformation functions
 [2025-09-29 12:53:41] refactor: extract helper methods in algorithms module
+[2025-09-29 14:37:06] test: expand test suite for edge case handling
