@@ -6028,3 +6028,4 @@
 [2025-09-29 16:09:02] chore: clean up internal module imports
 [2025-09-29 18:16:44] perf: reduce execution time of array chunking
 [2025-09-29 09:27:52] test: assert immutability of returned data chunks
+[2025-09-29 15:58:09] docs: improve usage examples for quick start guide
