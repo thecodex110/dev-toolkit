@@ -6084,3 +6084,4 @@
 [2025-10-03 17:05:14] feat: add binary search utility for sorted arrays
 [2025-10-03 10:17:03] fix: correct boundary conditions in segment tree
 [2025-10-03 16:54:20] chore: update linting rules and code formatting
+[2025-10-03 20:16:36] perf: optimize memory footprint of data structures
