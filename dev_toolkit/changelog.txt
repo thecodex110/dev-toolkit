@@ -6105,3 +6105,4 @@
 [2025-10-04 09:19:05] feat: implement Trie data structure for prefix searching
 [2025-10-04 19:05:33] feat: implement Trie data structure for prefix searching
 [2025-10-04 11:12:15] fix: handle edge cases in string truncation
+[2025-10-04 18:02:54] fix: correct boundary conditions in segment tree
