@@ -6173,3 +6173,4 @@
 [2025-10-10 18:53:26] test: assert immutability of returned data chunks
 [2025-10-11 08:43:30] refactor: extract helper methods in algorithms module
 [2025-10-11 15:50:30] test: expand test suite for edge case handling
+[2025-10-11 16:45:08] docs: update API documentation in README
