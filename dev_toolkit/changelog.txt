@@ -6255,3 +6255,4 @@
 [2025-10-17 08:55:33] feat: implement Trie data structure for prefix searching
 [2025-10-17 16:00:47] test: expand test suite for edge case handling
 [2025-10-17 14:05:54] chore: clean up internal module imports
+[2025-10-17 11:52:30] fix: correct boundary conditions in segment tree
