@@ -6272,3 +6272,4 @@
 [2025-10-17 22:07:17] test: expand test suite for edge case handling
 [2025-10-18 09:25:21] chore: update dependencies and version bump
 [2025-10-18 16:00:55] fix: address minor type checker warnings
+[2025-10-18 17:40:24] docs: update API documentation in README
