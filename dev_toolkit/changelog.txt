@@ -6326,3 +6326,4 @@
 [2025-10-20 16:12:42] feat: add binary search utility for sorted arrays
 [2025-10-20 18:16:46] feat: add slugify utility for string formatting
 [2025-10-20 10:01:43] refactor: simplify conditional logic in string parser
+[2025-10-20 11:35:00] docs: update API documentation in README
