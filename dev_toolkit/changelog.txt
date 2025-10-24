@@ -6424,3 +6424,4 @@
 [2025-10-24 10:29:46] fix: handle edge cases in string truncation
 [2025-10-24 20:35:13] docs: update API documentation in README
 [2025-10-24 13:48:41] chore: update dependencies and version bump
+[2025-10-24 16:18:05] test: add benchmark tests for algorithmic helpers
