@@ -6466,3 +6466,4 @@
 [2025-10-25 10:56:04] test: assert immutability of returned data chunks
 [2025-10-25 19:59:50] feat: add slugify utility for string formatting
 [2025-10-25 22:55:29] fix: address minor type checker warnings
+[2025-10-25 11:58:11] docs: update API documentation in README
