@@ -6471,3 +6471,4 @@
 [2025-10-25 18:58:44] perf: reduce execution time of array chunking
 [2025-10-25 10:16:59] docs: add docstrings and typing annotations
 [2025-10-25 12:00:01] chore: update dependencies and version bump
+[2025-10-25 18:28:59] docs: improve usage examples for quick start guide
