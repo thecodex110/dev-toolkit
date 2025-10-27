@@ -6487,3 +6487,4 @@
 [2025-10-27 15:42:31] refactor: simplify conditional logic in string parser
 [2025-10-27 21:45:12] test: add benchmark tests for algorithmic helpers
 [2025-10-27 17:14:12] test: expand test suite for edge case handling
+[2025-10-27 11:54:24] fix: correct boundary conditions in segment tree
