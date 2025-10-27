@@ -6515,3 +6515,4 @@
 [2025-10-27 09:29:07] chore: update linting rules and code formatting
 [2025-10-27 20:02:37] test: assert immutability of returned data chunks
 [2025-10-27 15:31:28] fix: resolve potential key error in cache lookup
+[2025-10-27 12:17:43] docs: improve usage examples for quick start guide
