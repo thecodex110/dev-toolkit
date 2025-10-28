@@ -6535,3 +6535,4 @@
 [2025-10-28 10:16:34] fix: correct boundary conditions in segment tree
 [2025-10-28 20:29:51] chore: update linting rules and code formatting
 [2025-10-28 13:59:54] chore: update linting rules and code formatting
+[2025-10-28 14:18:48] fix: address minor type checker warnings
