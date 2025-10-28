@@ -6520,3 +6520,4 @@
 [2025-10-28 09:44:07] perf: reduce execution time of array chunking
 [2025-10-28 21:59:26] docs: improve usage examples for quick start guide
 [2025-10-28 20:26:52] feat: add slugify utility for string formatting
+[2025-10-28 11:33:26] docs: update API documentation in README
