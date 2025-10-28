@@ -6532,3 +6532,4 @@
 [2025-10-28 21:57:36] fix: correct boundary conditions in segment tree
 [2025-10-28 17:10:06] docs: update API documentation in README
 [2025-10-28 17:40:43] docs: improve usage examples for quick start guide
+[2025-10-28 10:16:34] fix: correct boundary conditions in segment tree
