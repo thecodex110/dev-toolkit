@@ -6529,3 +6529,4 @@
 [2025-10-28 09:46:16] chore: update linting rules and code formatting
 [2025-10-28 10:48:46] fix: correct boundary conditions in segment tree
 [2025-10-28 21:08:10] chore: update dependencies and version bump
+[2025-10-28 21:57:36] fix: correct boundary conditions in segment tree
