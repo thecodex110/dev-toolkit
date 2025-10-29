@@ -6550,3 +6550,4 @@
 [2025-10-29 12:20:19] fix: correct boundary conditions in segment tree
 [2025-10-29 20:22:55] docs: update API documentation in README
 [2025-10-29 21:48:00] perf: reduce execution time of array chunking
+[2025-10-29 14:25:58] docs: update API documentation in README
