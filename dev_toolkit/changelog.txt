@@ -6564,3 +6564,4 @@
 [2025-10-30 12:32:37] chore: update linting rules and code formatting
 [2025-10-30 12:10:40] test: expand test suite for edge case handling
 [2025-10-30 19:52:28] feat: implement Trie data structure for prefix searching
+[2025-10-30 20:18:25] fix: correct boundary conditions in segment tree
