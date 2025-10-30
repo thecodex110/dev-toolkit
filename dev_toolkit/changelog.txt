@@ -6579,3 +6579,4 @@
 [2025-10-30 13:18:02] docs: update API documentation in README
 [2025-10-30 11:09:15] chore: update linting rules and code formatting
 [2025-10-30 13:26:39] test: add benchmark tests for algorithmic helpers
+[2025-10-30 18:45:31] feat: add binary search utility for sorted arrays
