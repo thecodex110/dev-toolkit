@@ -6584,3 +6584,4 @@
 [2025-10-30 17:43:02] refactor: extract helper methods in algorithms module
 [2025-10-30 22:44:08] docs: update API documentation in README
 [2025-10-31 20:00:22] fix: address minor type checker warnings
+[2025-10-31 15:07:33] feat: add matrix transformation functions
