@@ -6645,3 +6645,4 @@
 [2025-11-03 09:00:00] docs: update API documentation in README
 [2025-11-03 18:35:46] docs: update API documentation in README
 [2025-11-04 21:15:28] docs: update API documentation in README
+[2025-11-04 17:17:13] fix: address minor type checker warnings
