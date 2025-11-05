@@ -6659,3 +6659,4 @@
 [2025-11-04 12:28:35] docs: add docstrings and typing annotations
 [2025-11-04 11:42:19] docs: add docstrings and typing annotations
 [2025-11-05 19:48:44] perf: optimize memory footprint of data structures
+[2025-11-05 08:19:57] feat: add matrix transformation functions
