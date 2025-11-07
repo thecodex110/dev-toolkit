@@ -6710,3 +6710,4 @@
 [2025-11-07 16:43:29] test: add unit test coverage for string_utils
 [2025-11-07 09:48:24] docs: update API documentation in README
 [2025-11-07 18:45:46] chore: update dependencies and version bump
+[2025-11-07 21:06:01] docs: update API documentation in README
