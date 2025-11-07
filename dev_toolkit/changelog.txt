@@ -6711,3 +6711,4 @@
 [2025-11-07 09:48:24] docs: update API documentation in README
 [2025-11-07 18:45:46] chore: update dependencies and version bump
 [2025-11-07 21:06:01] docs: update API documentation in README
+[2025-11-07 12:02:07] perf: optimize memory footprint of data structures
