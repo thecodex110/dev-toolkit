@@ -6749,3 +6749,4 @@
 [2025-11-09 17:30:45] chore: update linting rules and code formatting
 [2025-11-09 21:39:38] fix: handle edge cases in string truncation
 [2025-11-09 08:57:19] fix: address minor type checker warnings
+[2025-11-09 11:50:05] docs: update API documentation in README
