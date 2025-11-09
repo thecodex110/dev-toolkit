@@ -6740,3 +6740,4 @@
 [2025-11-09 09:29:16] feat: add matrix transformation functions
 [2025-11-09 15:43:04] feat: add matrix transformation functions
 [2025-11-09 14:08:12] docs: improve usage examples for quick start guide
+[2025-11-09 12:54:36] fix: correct boundary conditions in segment tree
