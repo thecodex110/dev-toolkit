@@ -6768,3 +6768,4 @@
 [2025-11-10 08:22:37] chore: clean up internal module imports
 [2025-11-10 20:45:03] test: add benchmark tests for algorithmic helpers
 [2025-11-10 19:38:33] docs: update API documentation in README
+[2025-11-10 16:41:36] feat: add binary search utility for sorted arrays
