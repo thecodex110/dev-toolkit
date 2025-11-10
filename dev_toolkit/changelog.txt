@@ -6781,3 +6781,4 @@
 [2025-11-10 21:39:16] chore: update dependencies and version bump
 [2025-11-10 21:56:22] refactor: simplify conditional logic in string parser
 [2025-11-10 09:32:27] fix: address minor type checker warnings
+[2025-11-10 09:32:42] test: assert immutability of returned data chunks
