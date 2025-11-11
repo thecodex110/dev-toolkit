@@ -6794,3 +6794,4 @@
 [2025-11-11 17:55:04] fix: address minor type checker warnings
 [2025-11-11 13:00:15] docs: update API documentation in README
 [2025-11-11 20:34:24] feat: add matrix transformation functions
+[2025-11-11 11:41:17] chore: clean up internal module imports
