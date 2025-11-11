@@ -6792,3 +6792,4 @@
 [2025-11-10 12:20:23] perf: reduce execution time of array chunking
 [2025-11-11 20:59:20] feat: add binary search utility for sorted arrays
 [2025-11-11 17:55:04] fix: address minor type checker warnings
+[2025-11-11 13:00:15] docs: update API documentation in README
