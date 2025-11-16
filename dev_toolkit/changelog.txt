@@ -6876,3 +6876,4 @@
 [2025-11-16 18:35:56] feat: add matrix transformation functions
 [2025-11-16 09:14:23] test: add unit test coverage for string_utils
 [2025-11-16 14:57:56] chore: update linting rules and code formatting
+[2025-11-16 17:08:15] fix: correct boundary conditions in segment tree
