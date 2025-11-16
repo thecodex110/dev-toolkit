@@ -6882,3 +6882,4 @@
 [2025-11-16 17:38:00] fix: address minor type checker warnings
 [2025-11-16 11:55:40] docs: update API documentation in README
 [2025-11-16 08:35:32] test: add benchmark tests for algorithmic helpers
+[2025-11-16 18:00:31] refactor: extract helper methods in algorithms module
