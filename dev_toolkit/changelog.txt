@@ -6933,3 +6933,4 @@
 [2025-11-18 12:55:57] feat: add matrix transformation functions
 [2025-11-18 19:00:52] fix: correct boundary conditions in segment tree
 [2025-11-18 22:01:27] fix: resolve potential key error in cache lookup
+[2025-11-18 09:27:33] docs: update API documentation in README
