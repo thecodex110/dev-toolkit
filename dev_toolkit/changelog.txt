@@ -6966,3 +6966,4 @@
 [2025-11-19 10:23:00] chore: update dependencies and version bump
 [2025-11-19 21:02:10] refactor: modularize data structures module
 [2025-11-19 11:14:00] perf: reduce execution time of array chunking
+[2025-11-19 13:19:05] fix: correct boundary conditions in segment tree
