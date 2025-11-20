@@ -6968,3 +6968,4 @@
 [2025-11-19 11:14:00] perf: reduce execution time of array chunking
 [2025-11-19 13:19:05] fix: correct boundary conditions in segment tree
 [2025-11-20 16:36:07] perf: optimize memory footprint of data structures
+[2025-11-20 10:34:01] test: assert immutability of returned data chunks
