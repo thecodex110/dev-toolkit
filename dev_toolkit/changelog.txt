@@ -6992,3 +6992,4 @@
 [2025-11-20 13:56:30] fix: correct boundary conditions in segment tree
 [2025-11-20 14:41:22] fix: address minor type checker warnings
 [2025-11-20 21:06:54] docs: add docstrings and typing annotations
+[2025-11-20 15:27:23] feat: add binary search utility for sorted arrays
