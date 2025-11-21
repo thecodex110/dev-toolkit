@@ -7014,3 +7014,4 @@
 [2025-11-21 15:54:08] chore: update linting rules and code formatting
 [2025-11-21 10:38:41] chore: update linting rules and code formatting
 [2025-11-21 19:06:00] test: add unit test coverage for string_utils
+[2025-11-21 22:24:17] fix: correct boundary conditions in segment tree
