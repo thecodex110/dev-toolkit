@@ -7008,3 +7008,4 @@
 [2025-11-21 10:41:00] refactor: modularize data structures module
 [2025-11-21 16:31:17] refactor: modularize data structures module
 [2025-11-21 08:48:40] test: assert immutability of returned data chunks
+[2025-11-21 20:46:17] fix: correct boundary conditions in segment tree
