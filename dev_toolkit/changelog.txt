@@ -7044,3 +7044,4 @@
 [2025-11-24 14:08:37] chore: update dependencies and version bump
 [2025-11-24 10:42:08] feat: add matrix transformation functions
 [2025-11-24 16:16:37] chore: clean up internal module imports
+[2025-11-24 22:35:16] docs: improve usage examples for quick start guide
