@@ -7042,3 +7042,4 @@
 [2025-11-24 11:22:54] docs: add docstrings and typing annotations
 [2025-11-24 19:42:26] refactor: optimize LRU Cache eviction performance
 [2025-11-24 14:08:37] chore: update dependencies and version bump
+[2025-11-24 10:42:08] feat: add matrix transformation functions
