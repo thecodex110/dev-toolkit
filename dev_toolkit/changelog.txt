@@ -7092,3 +7092,4 @@
 [2025-11-25 08:22:59] chore: update linting rules and code formatting
 [2025-11-26 17:31:45] chore: update dependencies and version bump
 [2025-11-26 20:26:40] fix: correct boundary conditions in segment tree
+[2025-11-26 13:52:07] feat: add binary search utility for sorted arrays
