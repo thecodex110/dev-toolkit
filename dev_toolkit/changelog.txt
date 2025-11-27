@@ -7104,3 +7104,4 @@
 [2025-11-27 17:46:38] perf: optimize memory footprint of data structures
 [2025-11-27 13:46:41] refactor: modularize data structures module
 [2025-11-27 20:22:53] refactor: extract helper methods in algorithms module
+[2025-11-27 16:51:38] feat: add matrix transformation functions
