@@ -7118,3 +7118,4 @@
 [2025-11-28 17:07:57] docs: add docstrings and typing annotations
 [2025-11-28 09:15:46] docs: update API documentation in README
 [2025-11-28 11:22:09] test: expand test suite for edge case handling
+[2025-11-28 10:47:02] fix: correct boundary conditions in segment tree
