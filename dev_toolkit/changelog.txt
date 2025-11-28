@@ -7136,3 +7136,4 @@
 [2025-11-28 11:36:09] docs: update API documentation in README
 [2025-11-28 15:26:51] chore: update dependencies and version bump
 [2025-11-28 15:35:24] perf: optimize memory footprint of data structures
+[2025-11-28 10:31:36] fix: correct boundary conditions in segment tree
