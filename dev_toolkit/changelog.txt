@@ -7151,3 +7151,4 @@
 [2025-11-29 14:34:16] test: assert immutability of returned data chunks
 [2025-11-29 19:18:59] chore: update dependencies and version bump
 [2025-11-29 08:42:44] docs: update API documentation in README
+[2025-11-29 15:58:34] fix: resolve potential key error in cache lookup
