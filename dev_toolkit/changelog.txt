@@ -7142,3 +7142,4 @@
 [2025-11-28 14:57:40] docs: add docstrings and typing annotations
 [2025-11-28 08:09:40] docs: update API documentation in README
 [2025-11-28 14:42:33] refactor: extract helper methods in algorithms module
+[2025-11-29 10:31:27] refactor: extract helper methods in algorithms module
