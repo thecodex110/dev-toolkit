@@ -7224,3 +7224,4 @@
 [2025-12-04 11:24:35] docs: add docstrings and typing annotations
 [2025-12-04 09:07:56] test: expand test suite for edge case handling
 [2025-12-04 12:24:10] chore: update linting rules and code formatting
+[2025-12-04 11:59:01] docs: update API documentation in README
