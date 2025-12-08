@@ -7327,3 +7327,4 @@
 [2025-12-08 21:32:37] fix: correct boundary conditions in segment tree
 [2025-12-08 08:40:23] test: add benchmark tests for algorithmic helpers
 [2025-12-08 21:16:28] docs: improve usage examples for quick start guide
+[2025-12-08 19:44:30] feat: add binary search utility for sorted arrays
