@@ -7318,3 +7318,4 @@
 [2025-12-08 20:27:21] docs: improve usage examples for quick start guide
 [2025-12-08 10:22:48] feat: add binary search utility for sorted arrays
 [2025-12-08 10:14:54] fix: handle edge cases in string truncation
+[2025-12-08 13:14:55] fix: correct boundary conditions in segment tree
