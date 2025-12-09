@@ -7350,3 +7350,4 @@
 [2025-12-09 14:36:40] feat: add binary search utility for sorted arrays
 [2025-12-09 18:13:37] test: expand test suite for edge case handling
 [2025-12-09 22:19:46] refactor: extract helper methods in algorithms module
+[2025-12-09 11:15:05] docs: update API documentation in README
