@@ -7373,3 +7373,4 @@
 [2025-12-10 16:04:30] docs: update API documentation in README
 [2025-12-10 10:40:32] fix: correct boundary conditions in segment tree
 [2025-12-10 19:19:32] test: assert immutability of returned data chunks
+[2025-12-10 12:20:34] docs: improve usage examples for quick start guide
