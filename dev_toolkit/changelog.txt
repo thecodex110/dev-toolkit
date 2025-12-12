@@ -7386,3 +7386,4 @@
 [2025-12-11 08:28:16] fix: correct boundary conditions in segment tree
 [2025-12-11 13:35:51] test: expand test suite for edge case handling
 [2025-12-11 12:20:45] chore: update dependencies and version bump
+[2025-12-12 08:59:09] feat: add matrix transformation functions
