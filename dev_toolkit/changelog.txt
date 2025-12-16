@@ -7436,3 +7436,4 @@
 [2025-12-16 08:52:56] fix: correct boundary conditions in segment tree
 [2025-12-16 22:50:07] test: expand test suite for edge case handling
 [2025-12-16 12:04:42] refactor: modularize data structures module
+[2025-12-16 08:30:49] feat: add binary search utility for sorted arrays
