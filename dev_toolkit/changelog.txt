@@ -7433,3 +7433,4 @@
 [2025-12-16 18:10:51] fix: handle edge cases in string truncation
 [2025-12-16 15:57:33] chore: update dependencies and version bump
 [2025-12-16 10:38:09] test: assert immutability of returned data chunks
+[2025-12-16 08:52:56] fix: correct boundary conditions in segment tree
