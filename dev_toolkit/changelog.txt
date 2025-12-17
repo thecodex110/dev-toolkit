@@ -7487,3 +7487,4 @@
 [2025-12-17 19:56:27] feat: add matrix transformation functions
 [2025-12-17 17:24:51] fix: resolve potential key error in cache lookup
 [2025-12-17 18:57:31] chore: clean up internal module imports
+[2025-12-17 11:55:11] docs: update API documentation in README
