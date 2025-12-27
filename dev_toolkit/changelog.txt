@@ -7586,3 +7586,4 @@
 [2025-12-27 11:18:33] docs: improve usage examples for quick start guide
 [2025-12-27 13:01:39] fix: resolve potential key error in cache lookup
 [2025-12-27 16:14:02] refactor: simplify conditional logic in string parser
+[2025-12-27 11:02:34] test: assert immutability of returned data chunks
