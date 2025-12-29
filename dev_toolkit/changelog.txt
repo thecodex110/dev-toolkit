@@ -7610,3 +7610,4 @@
 [2025-12-29 18:45:31] perf: optimize memory footprint of data structures
 [2025-12-29 08:49:30] fix: handle edge cases in string truncation
 [2025-12-29 19:05:14] chore: update linting rules and code formatting
+[2025-12-29 13:17:33] docs: update API documentation in README
